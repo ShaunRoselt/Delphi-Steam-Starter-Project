@@ -1,0 +1,6 @@
+[submodule "Lib/TUniPas"]
+	path = Lib/TUniPas
+	url = https://github.com/ShaunRoselt/UniPas.git
+[submodule "Lib/steamwrapper"]
+	path = Lib/steamwrapper
+	url = https://github.com/thecocce/steamwrapper.git
